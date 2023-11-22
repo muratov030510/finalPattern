@@ -1,9 +1,9 @@
 # finalPattern
 
-Overview
+## Overview
 This project comprises various car service functionalities implemented using Python. Each service follows different design patterns for modularity, flexibility, and extensibility.
 
-Features
+Features <br>
 Car Repair Service (Singleton)
 Description: Manages repair requests for cars.
 Implementation: Utilizes the Singleton pattern to ensure a single instance of the service throughout the application.
